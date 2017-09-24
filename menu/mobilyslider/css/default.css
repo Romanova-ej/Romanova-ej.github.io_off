@@ -1,11 +1,41 @@
 ﻿/* ------ Общие стили
 -----------------------------------------------*/
 
+
 body {
-font-family:Arial, Helvetica, sans-serif;
-background:#ffffff;
-font-size:11px;
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  color: #515151;
+  line-height: 1.75rem;
 }
+
+h1{
+  font-size: 2rem;
+}
+
+h1 a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Quattrocento Sans", sans-serif;
+  color: #333;
+}
+.menu {
+  padding-top: 0.5rem;
+  display: block;
+}
+
+.menu-content {
+  float: left;
+}
+
+.menu-content a {
+  color: #999;
+  font-size: 1rem;
+  padding-right: 10px;
+}
+
 
 .pd{
 padding:10px;
