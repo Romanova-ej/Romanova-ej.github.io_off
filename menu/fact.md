@@ -4,7 +4,6 @@ title: Интересные факты
 ---
 <ul class="posts">
   {% for post in site.categories.fact %}
-
     <li itemscope>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a><br>
 	  {{post.description}}<br>
