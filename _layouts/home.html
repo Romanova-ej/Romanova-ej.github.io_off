@@ -21,7 +21,7 @@ title: Home
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}"><i class="next">Назад</i></a>
+    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}"><span class="next">Назад</span></a>
   {% else %}
     <span class="pagination-button">Назад</span>
   {% endif %}
