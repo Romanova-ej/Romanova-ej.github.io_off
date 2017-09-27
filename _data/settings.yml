@@ -1,5 +1,5 @@
 ﻿title:  Antarctica
-tagline:  Let it snow
+tagline:  It is snow
 
 # Authors documented under _data
 
@@ -12,7 +12,6 @@ google-ID: 'UA-80213386-1'
 
 menu:
 - {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
 - {name: 'Галерея', url: 'galery.html'}
 - {name: 'Интересные факты', url: 'fact.html'}
 - {name: 'Новости', url: 'news.html'}
