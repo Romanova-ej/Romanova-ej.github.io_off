@@ -11,7 +11,7 @@ disqus:
 google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'About', url: 'about.html'}
+- {name: 'О сайте', url: 'about.html'}
 - {name: 'Галерея', url: 'galery.html'}
 - {name: 'Интересные факты', url: 'fact.html'}
 - {name: 'Новости', url: 'news.html'}

@@ -444,3 +444,11 @@ pre {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+.to-top{
+  width: 115px;
+  height:25px;
+  margin-left: auto;
+  margin-right: auto;
+color: #6495ED;
+}
