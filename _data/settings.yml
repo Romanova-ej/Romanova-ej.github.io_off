@@ -17,7 +17,7 @@ menu:
 - {name: 'Новости', url: 'news.html'}
 
 social:
-- {icon: 'github', link: 'https://github.com/Romanova-ej'}
+- {icon: 'vk', link: 'https://vk.com/1l.romanova'}
 - {icon: 'envelope', link: 'mailto:romanova.ej@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
