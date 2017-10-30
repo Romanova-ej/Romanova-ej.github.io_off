@@ -37,4 +37,4 @@ image:
 
 Операция Леонида Рогозова вдохновила Владимира Высоцкого в 1963 году написать песню
 
-<!--<audio src="../assets/audio/app_VV.ogg" controls></audio>-->
+<audio src="../assets/audio/app_VV.ogg" controls></audio>
